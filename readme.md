@@ -1,8 +1,10 @@
-# MoonPad™
+# 🌙 MoonPad™
 **A node-based notepad that lives inside After Effects.**
 Drop in text, screenshots and videos, drag them around, and wire them together like Unreal Blueprints.
 
 -# A Moonlit™ product · Founded by melthedev (mel)
+
+![MoonPad inside After Effects: text notes, an image, colored nodes and wires on a dark board](https://raw.githubusercontent.com/melthedevv/MoonPad/refs/heads/main/Screenshot%202026-10-10%20195449.png)
 
 ## ✨ What it does
 - 📝 Text notes, 🖼️ images and 🎬 videos on an infinite board
@@ -10,8 +12,6 @@ Drop in text, screenshots and videos, drag them around, and wire them together l
 - 🌗 Dark and light mode, custom color themes, your own background image and font
 - 💾 Saves automatically for each After Effects project
 - 📦 Export and import `.mnpad` files to share a whole pad
-
-- https://raw.githubusercontent.com/melthedevv/MoonPad/refs/heads/main/Screenshot%202026-10-10%20195449.png
 
 ## 📥 Install (Windows)
 1. Download `MoonPad.zip` and **unzip it** (don't run it from inside the zip)
