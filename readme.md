@@ -1,4 +1,4 @@
-# 🌙 MoonPad™
+# MoonPad™
 **A node-based notepad that lives inside After Effects.**
 Drop in text, screenshots and videos, drag them around, and wire them together like Unreal Blueprints.
 
