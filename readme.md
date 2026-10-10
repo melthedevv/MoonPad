@@ -11,6 +11,8 @@ Drop in text, screenshots and videos, drag them around, and wire them together l
 - 💾 Saves automatically for each After Effects project
 - 📦 Export and import `.mnpad` files to share a whole pad
 
+- https://raw.githubusercontent.com/melthedevv/MoonPad/refs/heads/main/Screenshot%202026-10-10%20195449.png
+
 ## 📥 Install (Windows)
 1. Download `MoonPad.zip` and **unzip it** (don't run it from inside the zip)
 2. Double-click **`install.bat`** (no admin needed)
